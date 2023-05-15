@@ -1,3 +1,3 @@
 # git_test
-Testing git for Odin Project
+Testing git for Odin Project.
 Hello Odin!
